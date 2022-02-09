@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "PinClipart.com_rock-paper-scissors-clip_5360227@1x.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "PinClipart.com_rock-paper-scissors-clip_5360227@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "PinClipart.com_rock-paper-scissors-clip_5360227@3x.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
