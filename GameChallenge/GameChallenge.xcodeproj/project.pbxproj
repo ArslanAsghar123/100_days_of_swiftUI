@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		525E012627B5101500711968 /* SwitchWay.swift in Sources */ = {isa = PBXBuildFile; fileRef = 525E012527B5101500711968 /* SwitchWay.swift */; };
 		5294696F27B44FED00DF0B54 /* GameChallengeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5294696E27B44FED00DF0B54 /* GameChallengeApp.swift */; };
 		5294697127B44FED00DF0B54 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5294697027B44FED00DF0B54 /* ContentView.swift */; };
 		5294697327B44FEE00DF0B54 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5294697227B44FEE00DF0B54 /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		525E012527B5101500711968 /* SwitchWay.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwitchWay.swift; sourceTree = "<group>"; };
 		5294696B27B44FED00DF0B54 /* GameChallenge.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GameChallenge.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5294696E27B44FED00DF0B54 /* GameChallengeApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameChallengeApp.swift; sourceTree = "<group>"; };
 		5294697027B44FED00DF0B54 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -53,6 +55,7 @@
 			children = (
 				5294696E27B44FED00DF0B54 /* GameChallengeApp.swift */,
 				5294697027B44FED00DF0B54 /* ContentView.swift */,
+				525E012527B5101500711968 /* SwitchWay.swift */,
 				5294697227B44FEE00DF0B54 /* Assets.xcassets */,
 				5294697427B44FEE00DF0B54 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				525E012627B5101500711968 /* SwitchWay.swift in Sources */,
 				5294697127B44FED00DF0B54 /* ContentView.swift in Sources */,
 				5294696F27B44FED00DF0B54 /* GameChallengeApp.swift in Sources */,
 			);
